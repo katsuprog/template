@@ -13,7 +13,7 @@
 	// 	"description": "Log output to console"
 	// }
 	"scss":{
-		"prefix": "sasstemplate",
+		"prefix": "template-sass",
 		"body": [
 			"html,\tbody,",
 			"ul,\tol,\tli,",
