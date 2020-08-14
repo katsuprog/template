@@ -15,15 +15,15 @@
 	"scss":{
 		"prefix": "template-sass",
 		"body": [
-			"html,\tbody,",
-			"ul,\tol,\tli,",
-			"h1,\th2,\th3,\th4,\th5,\th6,\tp,\tdiv\t{",
-			"\tmargin:\t0;",
-			"\tpadding:\t0;",
+			"html, body,",
+			"ul, ol, li,",
+			"h1, h2, h3, h4, h5, h6, p, div{",
+			"\tmargin: 0;",
+			"\tpadding: 0;",
 			"}",
 			"",
 			"body{",
-			"\tbox-sizing:\tborder-box;",
+			"\tbox-sizing: border-box;",
 			"}"
 		]
 	}
