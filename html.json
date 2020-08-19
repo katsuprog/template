@@ -22,7 +22,7 @@
 			"\t\t<meta charset='utf-8'>",
 			"\t\t<meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>",
 			"\t\t<!-- FontAwesome -->",
-			"\t\t<link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/font-awesome/5.14.0/css/font-awesome.min.css'>",
+			"\t\t<script src='https://kit.fontawesome.com/4a428ac66b.js' crossorigin='anonymous'></script>",
 			"\t\t<!-- SASS -->",
 			"\t\t<link rel='stylesheet' href='https://unpkg.com/ress/dist/ress.min.css'>",
 			"\t\t<!-- jQuery-->",
